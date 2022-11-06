@@ -36,7 +36,7 @@ body {
   height: 80px;
   color: white;
   font-size: 45px;
-  border-radius: 10px;
+  border-radius: 3px;
   background: purple;
   cursor: pointer;
 }
